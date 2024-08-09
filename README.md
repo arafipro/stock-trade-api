@@ -2,7 +2,7 @@
 
 ## YouTube
 
-[!["【Cloudflare Workers】Bun+Hono+Drizzle+Zod+Cloudflare D1で株式投資取引APIを作る"](https://i.ytimg.com/vi/<ID>/maxresdefault.jpg)](https://youtu.be/<ID>)
+[!["【Cloudflare Workers】Bun+Hono+Drizzle+Zod+Cloudflare D1で株式投資取引APIを作る"](https://i.ytimg.com/vi/nVuZiBAXJo0/maxresdefault.jpg)](https://youtu.be/nVuZiBAXJo0)
 
 ## 技術選定
 
